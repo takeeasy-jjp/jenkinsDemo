@@ -1,2 +1,0 @@
-# jenkinsDemo
-test jenkins
