@@ -5,7 +5,7 @@
     <Button type="info" @click="startRecorder()" style="margin:1vw;">开始录音</Button>
     <Button type="info" @click="resumeRecorder()" style="margin:1vw;">继续录音</Button>
     <Button type="info" @click="pauseRecorder()" style="margin:1vw;">暂停录音</Button>
-    <Button type="info" @click="stopRecorder()" style="margin:1vw;">结束录音</Button>
+    <Button type="info" @click="stopRecorder()" style="margin:1vw;">结束录音go</Button>
     <br />
     <div>
       <canvas width="400px" height="100px" id="canvas"></canvas>
